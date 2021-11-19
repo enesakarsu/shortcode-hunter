@@ -1,0 +1,16 @@
+{
+    "name": "enesakarsu/shortcode-hunter",
+    "description": "The PHP Shortcode Hunter - PHP shortcode class, nested shortcodes and custom shortcodes",
+    "keywords": ["shortcode", "php shortcode", "parser", "engine", "php shortcode class"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enes Akarsu",
+            "email": "enesakarssu@gmail.com"
+        }
+    ],
+    "require": {
+		"enesakarsu/shortcode-hunter": "~1.0",
+        "php": ">=5.3"
+    }
+}
