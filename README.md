@@ -49,10 +49,18 @@ Usage Example
 
 To create a shortcode, open the `shortcode-hunter/src/shortcodes.php` file and create the shortcode you want like the example below. While creating the shortcode, we write the name of our shortcode as the first parameter and the name of the function we want to run as the second parameter.
 
+Normal function:
 
 ```ruby
 $shortcode->create("example", "exampleFunction");
 ```
+
+Class method:
+
+```ruby
+$shortcode->create("example", "class@method");
+```
+
 
 Above, we asked it to run the function named "exampleFunction" for the "example" shortcode. Now let's create that function in the `shortcode-hunter/src/functions.php` file.
 
