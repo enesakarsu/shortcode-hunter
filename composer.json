@@ -12,5 +12,5 @@
     "require": {
         "php": ">=5.3"
     },
-    "version": "0.1"
+    "version": "v0.1"
 }
