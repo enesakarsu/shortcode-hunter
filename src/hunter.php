@@ -69,6 +69,6 @@ class Shortcode
 }
 
 $shortcode = new Shortcode();
-include(__DIR__."/Functions.php");
-include(__DIR__."/Shortcodes.php");
+include(__DIR__."/functions.php");
+include(__DIR__."/shortcodes.php");
 ?>
