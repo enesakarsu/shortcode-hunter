@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-		"enesakarsu/shortcode-hunter": "~1.0",
+	"enesakarsu/shortcode-hunter": "~1.0",
         "php": ">=5.3"
     }
 }
