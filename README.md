@@ -3,7 +3,9 @@ The Shortcode Hunter - PHP shortcode class, nested shortcodes and custom shortco
 
 ### Installation
 
-[Download Source Code(.zip)](https://github.com/enesakarsu/shortcode-hunter/archive/refs/heads/main.zip)
+```ruby
+composer require enesakarsu/shortcode-hunter
+```
 
 ### Syntax of shortcodes
 
